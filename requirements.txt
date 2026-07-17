@@ -1,0 +1,9 @@
+# Core LRUCache (cache/node.py, cache/lru_cache.py) uses ONLY the
+# Python standard library - no external dependencies required.
+
+# Needed for running the test suite:
+pytest>=7.0.0
+
+# Optional - only needed if you use visualizer/render.py's
+# render_image() function instead of the text-only render_text():
+matplotlib>=3.6.0
